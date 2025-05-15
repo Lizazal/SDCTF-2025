@@ -2,6 +2,26 @@
 
 Team: st0p_cyb3rbu11ying
 
+## Contents
+
+[Task description](#task-description)
+
+[Initial information gathering](#initial-information-gathering)
+
+[Day 4. May 7th flag](#day-4-may-7th-flag)
+
+[Day 5. May 8th flag](#day-5-may-8th-flag)
+
+[Day 6. May 9th flag](#day-6-may-9th-flag)
+
+[Day 3. May 6th flag](#day-3-may-6th-flag)
+
+[Day 2. May 5th flag](#day-2-may-5th-flag)
+
+[Day 1. May 4th flag. The last one.](#day-1-may-4th-flag-the-last-one)
+
+[Conclusion](#conclusion)
+
 ## Task description
 
 This OSINT consists of 6 similar parts: finding Piotr's whereabouts. The exact task descriptions look like:
